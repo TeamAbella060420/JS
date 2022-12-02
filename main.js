@@ -9,11 +9,14 @@
 // data types
 //string, numbers, Boolean, null, undefined
 
-const Name = 'Pedro';
-const Age = 19;
-const Rating = 49.3;
-const inComplete = true;
-const Val = null;
-const unk = undefined;
+// const Name = 'Pedro';
+// const Age = 19;
+// const Rating = 49.3;
+// const inComplete = true;
+// const Val = null;
+// const unk = undefined;
 
-console.log(Name.toLocaleUpperCase());
+// console.log(Name.toLocaleUpperCase());
+
+
+// array
